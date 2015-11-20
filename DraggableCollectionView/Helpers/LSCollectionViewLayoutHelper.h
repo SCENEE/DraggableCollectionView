@@ -4,7 +4,7 @@
 //  Distributed under MIT license
 //
 
-#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 #import "UICollectionViewLayout_Warpable.h"
 
 @interface LSCollectionViewLayoutHelper : NSObject
